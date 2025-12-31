@@ -1,12 +1,12 @@
 # AI 洞察与认知架构 🧠
 
-[![License: MIT](./README_CN.assets/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](./README_CN.assets/Status-长期维护-success.svg)]()
+[![License: MIT](./README_CN.assets/License-MIT-yellow-1767199828504-1.svg)](https://opensource.org/licenses/MIT)
+[![Status: Active](./README_CN.assets/Status-长期维护-success-1767199828504-3.svg)]()
 [![Focus: AI Infra](./README_CN.assets/Focus-AI Infra %26 世界模型-blueviolet.svg)]()
 
 > “记忆力的价值在贬值，理解力的溢价在升高。”
 
-**[English](./README.md) | [简体中文](./README_CN.md)**
+**[English](../README.md) | [简体中文](./README_CN.md)**
 
 ---
 

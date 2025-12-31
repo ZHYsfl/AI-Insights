@@ -1,12 +1,12 @@
 # AI Insights & Cognitive Architecture 🧠
 
-[![License: MIT](./README.assets/License-MIT-yellow-1767199353111-1.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](./README.assets/Status-Long Term Update-success.svg)]()
+[![License: MIT](./README.assets/License-MIT-yellow-1767199809493-1.svg)](https://opensource.org/licenses/MIT)
+[![Status: Active](./README.assets/Status-Long Term Update-success-1767199809493-3.svg)]()
 [![Focus: AI Infra](./README.assets/Focus-AI Infra %26 World Model-blueviolet.svg)]()
 
 > "The value of memory is depreciating, while the premium on understanding is soaring."
 
-**[English](./README.md) | [简体中文](./README_CN.md)**
+**[English](./README.md) | [简体中文](./ChineseVersion/README_CN.md)**
 
 ---
 
