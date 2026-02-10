@@ -23,28 +23,6 @@ As technology evolves from LLMs to Agents and World Models, I document my journe
 
 ---
 
-## 📝 Featured Insights
-
-### 1. Macro Trends & Technology Landscape
-* **[2025 AI Landscape Review]**: From the end of the "Compute Iron Law" to the dawn of Cognitive Architectures. Discussing DeepSeek, GRPO, and the limits of implicit modeling.
-  * 📄 [Read PDF](./EnglishVersion/251229-2025%20AI%20Technology%20Landscape%20Review.pdf)
-
-### 2. Theoretical Frameworks
-* **[The Unified Equation of Intelligence]**: From $dx/dt$ to Graph Theory. A theoretical framework unifying the three major AI schools.
-  * 📄 [Read PDF](./EnglishVersion/251205-The%20Unified%20Equation%20of%20Intelligence.pdf)
-
-### 3. Engineering & Learning Path
-* **[The "Source Code" Learning Method]**: Why you should stop watching videos and start reading `cleanrl` or `vllm`.
-  * 📄 [Read PDF](./EnglishVersion/251231-Chatting%20with%20a%20Junior%20Student%20All%20Afternoon.pdf)
-
-### 4. Personal Growth
-* **[Observations on the Era]**: Why execution is the only currency that matters.
-  * 📄 [Read PDF](./EnglishVersion/251123-Observations%20on%20the%20Era%20in%202025.pdf)
-* **[Year-End Review]**: Transformations in mindset and cognition.
-  * 📄 [Read PDF](./EnglishVersion/251227-2025%20Year-End%20Review%20The%20Year%20of%20Transformation.pdf)
-
----
-
 ## 👨‍💻 About Me
 
 I am a Software Engineering student at Jilin University, currently in the third year of undergraduate study.
