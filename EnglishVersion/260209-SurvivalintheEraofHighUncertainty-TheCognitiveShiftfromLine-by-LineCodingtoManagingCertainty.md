@@ -14,8 +14,8 @@ Many can build an app in a few days now, but the subsequent refinement—securit
 
 These rules and insights may change in a few years. It’s better not to overthink the next five years, but rather to plan and adapt within a five-year horizon. Constant learning and thinking are the only ways to handle this rapid transformation. This, perhaps, is the ultimate core value of a human.
 
-![image-20260211015901399](./260209-SurvivalintheEraofHighUncertainty TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.assets/image-20260211015901399.png)
+![image-20260211015901399](./260209-SurvivalintheEraofHighUncertainty-TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.assets/image-20260211015901399.png)
 
-![image-20260211015907769](./260209-SurvivalintheEraofHighUncertainty TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.assets/image-20260211015907769.png)
+![image-20260211015907769](./260209-SurvivalintheEraofHighUncertainty-TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.assets/image-20260211015907769.png)
 
-![image-20260211015911477](./260209-SurvivalintheEraofHighUncertainty TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.assets/image-20260211015911477.png)
+![image-20260211015911477](./260209-SurvivalintheEraofHighUncertainty-TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.assets/image-20260211015911477.png)
