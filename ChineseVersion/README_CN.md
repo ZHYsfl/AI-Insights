@@ -1,6 +1,6 @@
 # AI 洞察与认知架构 🧠
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status: Active](https://img.shields.io/badge/Status-长期维护-success.svg)](https://github.com/ZHYsfl/AI-Insights) [![Focus: AI Infra](https://img.shields.io/badge/Focus-AI_Infra_&_World_Model-blueviolet)](https://github.com/ZHYsfl/AI-Insights)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status: Active](https://img.shields.io/badge/Status-长期维护-success.svg)](https://github.com/ZHYsfl/AI-Insights) [![Focus: AI Agent · Vibe Research · AI Infra](https://img.shields.io/badge/Focus-AI_Agent_·_Vibe_Research_·_AI_Infra-blueviolet)](https://github.com/ZHYsfl/AI-Insights)
 
 > “记忆力的价值在贬值，理解力的溢价在升高。”
 
