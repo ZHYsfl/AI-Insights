@@ -30,7 +30,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [The Layered Computing Stack and Systems Thinking in the AI Era](./EnglishVersion/260414-The-Layered-Computing-Stack-and-Systems-Thinking-in-the-AI-Era.md)
 * [The Harness Ecosystem Battle Among Model Vendors](./EnglishVersion/260418-The-Harness-Ecosystem-Battle-Among-Model-Vendors.md)
 * [The Backend Titans of the AI Era: How Python and Go Neutralize Their Weaknesses Through Ecological Niche Synergy](./EnglishVersion/260201-The-Backend-Titans-of-the-AI-Era-How-Python-and-Go-Neutralize-Their-Weaknesses-Through-Ecological-Niche-Synergy.md)
-* [The Eve of Agent Industrialization: The Deterministic Rise of Context Engineering, Evaluation Frameworks, and Sandboxes](./EnglishVersion/260122-TheEveofAgentIndustrialization-TheDeterministicRiseofContextEngineering,-EvaluationFrameworks,-andSandboxes.md)
+* [The Eve of Agent Industrialization: The Deterministic Rise of Context Engineering, Evaluation Frameworks, and Sandboxes](./EnglishVersion/260128-The-Eve-of-Agent-Industrialization-The-Deterministic-Rise-of-Context-Engineering-Evaluation-Frameworks-and-Sandboxes.md)
 * [The Geometry of Attention: Decoding SOTA Programming Models Through Opus 4.5's Uniform Attention Distribution](./EnglishVersion/260130-TheGeometryofAttentionDecodingSOTAProgrammingModelsThroughOpus4.5sUniformAttentionDistribution.md)
 * [Engineering Principles for Large Projects and Vibe Coder Survival Rules](./EnglishVersion/260601-Engineering-Principles-for-Large-Projects-and-Vibe-Coder-Survival-Rules.md)
 
@@ -53,6 +53,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [The Value of Deep Conversations with Strangers](./EnglishVersion/260327-The-Value-of-Deep-Conversations-with-Strangers.md)
 
 ### 💼 Entrepreneurship & Industry Observations
+* [My Article Republished by Qingke Community](./EnglishVersion/260122-My-Article-Republished-by-Qingke-Community.md)
 * [10 Questions on LLM Entrepreneurship](./EnglishVersion/260217-10-Questions-on-LLM-Entrepreneurship.md)
 * [VC AI Screening and Project Recognition](./EnglishVersion/260430-VC-AI-Screening-and-Project-Recognition.md)
 * [Observations on the Era in 2025](./EnglishVersion/251123-Observations-on-the-Era-in-2025.md)
