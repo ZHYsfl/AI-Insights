@@ -33,6 +33,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [The Eve of Agent Industrialization: The Deterministic Rise of Context Engineering, Evaluation Frameworks, and Sandboxes](./EnglishVersion/260128-The-Eve-of-Agent-Industrialization-The-Deterministic-Rise-of-Context-Engineering-Evaluation-Frameworks-and-Sandboxes.md)
 * [The Geometry of Attention: Decoding SOTA Programming Models Through Opus 4.5's Uniform Attention Distribution](./EnglishVersion/260130-TheGeometryofAttentionDecodingSOTAProgrammingModelsThroughOpus4.5sUniformAttentionDistribution.md)
 * [Engineering Principles for Large Projects and Vibe Coder Survival Rules](./EnglishVersion/260601-Engineering-Principles-for-Large-Projects-and-Vibe-Coder-Survival-Rules.md)
+* [Is Natural Language a Foundation? Agent Evaluation and Tech Aesthetics](./EnglishVersion/260609-Is-Natural-Language-a-Foundation-Agent-Evaluation-and-Tech-Aesthetics.md)
 
 ### 🤖 Agent, Vibe Coding & Future of Work
 * [The Return of Humanity: From Master Instructors to the Orchestration of Agent Swarms](./EnglishVersion/260312-The-Return-of-Humanity-From-Master-Instructors-to-the-Orchestration-of-Agent-Swarms.md)
