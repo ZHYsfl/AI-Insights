@@ -34,6 +34,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [The Geometry of Attention: Decoding SOTA Programming Models Through Opus 4.5's Uniform Attention Distribution](./EnglishVersion/260130-TheGeometryofAttentionDecodingSOTAProgrammingModelsThroughOpus4.5sUniformAttentionDistribution.md)
 * [Engineering Principles for Large Projects and Vibe Coder Survival Rules](./EnglishVersion/260601-Engineering-Principles-for-Large-Projects-and-Vibe-Coder-Survival-Rules.md)
 * [Is Natural Language a Foundation? Agent Evaluation and Tech Aesthetics](./EnglishVersion/260609-Is-Natural-Language-a-Foundation-Agent-Evaluation-and-Tech-Aesthetics.md)
+* [A Brief History of Neural Network Architectures and the Future of Agent Thinking Structures](./EnglishVersion/260621-A-Brief-History-of-Neural-Network-Architectures-and-the-Future-of-Agent-Thinking-Structures.md)
 
 ### 🤖 Agent, Vibe Coding & Future of Work
 * [The Return of Humanity: From Master Instructors to the Orchestration of Agent Swarms](./EnglishVersion/260312-The-Return-of-Humanity-From-Master-Instructors-to-the-Orchestration-of-Agent-Swarms.md)
@@ -64,6 +65,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [The Server That Disappeared from the Console](./EnglishVersion/260329-The-Server-That-Disappeared-from-the-Console.md)
 * [The CD Death Loop and Self-Correction Trap in Claude Code](./EnglishVersion/260511-The-CD-Death-Loop-and-Self-Correction-Trap-in-Claude-Code.md)
 * [A 403 Bug That Revealed the Agent Infrastructure Shift](./EnglishVersion/260526-A-403-Bug-That-Revealed-the-Agent-Infrastructure-Shift.md)
+* [Returning Ubuntu Partitions to D Drive: A Year of Dev Setup Evolution](./EnglishVersion/260621-Returning-Ubuntu-Partitions-to-D-Drive-A-Year-of-Dev-Setup-Evolution.md)
 
 ### 📖 Learning & Reflections
 * [Chatting with a Junior Student All Afternoon: How Should We Learn in This Era of AI Frenzy](./EnglishVersion/251231-Chatting-with-a-Junior-Student-All-Afternoon-How-Should-We-Learn-in-This-Era-of-AI-Frenzy.md)
