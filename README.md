@@ -51,6 +51,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [Reading People and Breaking Limits: Transcending the Pain of Personality to Reshape Fate](./EnglishVersion/260213-Reading-People-and-Breaking-Limits-Transcending-the-Pain-of-Personality-to-Reshape-Fate.md)
 
 ### 🌐 Social Connection & Life Philosophy
+* [Aunt Fangfang on the Basketball Court](./EnglishVersion/260626-Aunt-Fangfang-on-the-Basketball-Court.md)
 * [Deliberate Socializing and the Information Ecosystem](./EnglishVersion/260325-Deliberate-Socializing-and-the-Information-Ecosystem.md)
 * [The Value of Deep Conversations with Strangers](./EnglishVersion/260327-The-Value-of-Deep-Conversations-with-Strangers.md)
 
