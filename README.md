@@ -35,6 +35,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [Engineering Principles for Large Projects and Vibe Coder Survival Rules](./EnglishVersion/260601-Engineering-Principles-for-Large-Projects-and-Vibe-Coder-Survival-Rules.md)
 * [Is Natural Language a Foundation? Agent Evaluation and Tech Aesthetics](./EnglishVersion/260609-Is-Natural-Language-a-Foundation-Agent-Evaluation-and-Tech-Aesthetics.md)
 * [A Brief History of Neural Network Architectures and the Future of Agent Thinking Structures](./EnglishVersion/260621-A-Brief-History-of-Neural-Network-Architectures-and-the-Future-of-Agent-Thinking-Structures.md)
+* [The Core Architecture and Data Flow of VLA](./EnglishVersion/260729-The-Core-Architecture-and-Data-Flow-of-VLA.md)
 
 ### 🤖 Agent, Vibe Coding & Future of Work
 * [The Return of Humanity: From Master Instructors to the Orchestration of Agent Swarms](./EnglishVersion/260312-The-Return-of-Humanity-From-Master-Instructors-to-the-Orchestration-of-Agent-Swarms.md)
