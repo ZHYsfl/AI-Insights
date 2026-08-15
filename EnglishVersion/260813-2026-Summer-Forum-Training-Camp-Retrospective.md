@@ -46,6 +46,8 @@ In the last three days, we built an MVP of an OpenEvidence-style evidence assist
 
 ![alt text](./260813-2026-Summer-Forum-Training-Camp-Retrospective.assets/image-3.png)
 
+![alt text](./260813-2026-Summer-Forum-Training-Camp-Retrospective.assets/15ae4d5b9feaa5ba0040065c3518f63f.jpg)
+
 ---
 
 2. On team management
