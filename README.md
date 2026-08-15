@@ -70,6 +70,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [Returning Ubuntu Partitions to D Drive: A Year of Dev Setup Evolution](./EnglishVersion/260621-Returning-Ubuntu-Partitions-to-D-Drive-A-Year-of-Dev-Setup-Evolution.md)
 
 ### 📖 Learning & Reflections
+* [2026 Summer Forum Training Camp Retrospective](./EnglishVersion/260813-2026-Summer-Forum-Training-Camp-Retrospective.md)
 * [Chatting with a Junior Student All Afternoon: How Should We Learn in This Era of AI Frenzy](./EnglishVersion/251231-Chatting-with-a-Junior-Student-All-Afternoon-How-Should-We-Learn-in-This-Era-of-AI-Frenzy.md)
 * [Reflections on the Tairan & Weng Jiayi Video Podcast](./EnglishVersion/260221-Reflections-on-the-Tairan-&-Weng-Jiayi-Video-Podcast.md)
 * [2025 Year-End Review: The Year of Transformation](./EnglishVersion/251227-2025-Year-End-Review-The-Year-of-Transformation.md)
