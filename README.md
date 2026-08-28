@@ -50,6 +50,7 @@ From LLMs to Agents, from Vibe Coding to Vibe Research, from solo execution to t
 * [Mindset, Certainty, and Cognitive Boundaries: Four Reflections on Personal Evolution](./EnglishVersion/260204-Mindset,-Certainty,-and-Cognitive-Boundaries-Four-Reflections-on-Personal-Evolution.md)
 * [Survival in the Era of High Uncertainty: The Cognitive Shift from Line-by-Line Coding to Managing Certainty](./EnglishVersion/260209-SurvivalintheEraofHighUncertainty-TheCognitiveShiftfromLine-by-LineCodingtoManagingCertainty.md)
 * [Reading People and Breaking Limits: Transcending the Pain of Personality to Reshape Fate](./EnglishVersion/260213-Reading-People-and-Breaking-Limits-Transcending-the-Pain-of-Personality-to-Reshape-Fate.md)
+* [Tolerance and Preferences: There Is No Right or Wrong, and All Roads Lead to Rome](./EnglishVersion/260825-Tolerance-and-Preferences-There-Is-No-Right-or-Wrong-and-All-Roads-Lead-to-Rome.md)
 
 ### 🌐 Social Connection & Life Philosophy
 * [Aunt Fangfang on the Basketball Court](./EnglishVersion/260626-Aunt-Fangfang-on-the-Basketball-Court.md)
